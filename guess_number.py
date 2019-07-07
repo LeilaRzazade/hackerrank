@@ -1,3 +1,5 @@
+#This is random number generator program.
+#You should guess the random generated number.
 import random
 random_num = random.randint(1,100)
 user_input = int(input("Guess the number: "))
